@@ -1,0 +1,24 @@
++++
+title = "About me"
++++
+
+Hi! I'm Brendan. This is my (very work-in-progress) personal website. I also have a wiki at wiki.brendanny.com but it is also very a work-in-progress...
+
+## Identity
+
+- GitHub: [github.com/brendanny](https://github.com/brendanny)
+
+## Ebook Projects
+
+### Published
+- *[Scarlet Sister Mary](https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary)* (1928) by Julia Peterkin: Pulitzer winner in 1929
+- *[The Mother](https://standardebooks.org/ebooks/pearl-s-buck/the-mother)* (1934) by Pearl S. Buck: by Nobel Laureate Pearl Buck and written contemporaneously with her Pulitzer winner *The Good Earth*
+- *[Quicksand](https://standardebooks.org/ebooks/nella-larsen/quicksand)* (1928) by Nella Larsen
+- *[Dodsworth](https://standardebooks.org/ebooks/sinclair-lewis/dodsworth)* (1929) by Sinclair Lewis
+- *[The Story of My Experiments with Truth](https://standardebooks.org/ebooks/mahatma-gandhi/the-story-of-my-experiments-with-truth/mahadev-desai)* (1929) by Gandhi, translated by Mahadev Desai
+- *[Look Homeward, Angel](https://standardebooks.org/ebooks/thomas-wolfe/look-homeward-angel)* (1929) by Thomas Wolfe
+
+### In progress
+
+- *[The Fisher Maiden (Fiskerjenten)](https://github.com/brendanny/bjornstjerne-bjornson_the-fisher-maiden_rasmus-b-anderson)* (1882) by Bjørnstjerne Bjørnson, translated by Rasmus B. Anderson
+- *[Savrola](https://github.com/brendanny/winston-churchill_savrola)* (1899) by Winston Churchill
