@@ -1,9 +1,0 @@
-baseURL = 'https://brendanny.com/'
-languageCode = 'en-us'
-title = 'brendanny'
-theme = 'hugo-simple'
-
-
-[params]
-customCSS = ["css/custom.css"]
-hideRSSLink = true
