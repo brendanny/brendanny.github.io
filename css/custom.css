@@ -1,0 +1,6 @@
+/* Center the content and set a max width */
+body{
+	margin: 0 auto;
+	max-width: 50em;
+	padding: calc(8px + 1.5625vw);
+}
