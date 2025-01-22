@@ -9,6 +9,7 @@
 		<link href="css/core.css" rel="stylesheet"/>
 		<title>brendanny</title>
 	</head>
+	<style>.split { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: center; } .split section { grid-column: 1; } .split img { grid-column: 2; width: 100%; max-width: 200px; padding: 1em; justify-self: center; align-self: center; }</style>
 	<body>
 		<header>
 			<nav>
@@ -23,20 +24,23 @@
 						<a href="#about">About</a>
 					</li>
 					<!-- <li>
-						<a href="/blog">Blog</a>
+					<a href="/blog">Blog</a>
 					</li>
 					<li>
-						<a href="/notes">Notes</a>
+					<a href="/notes">Notes</a>
 					</li> -->
 				</ul>
 			</nav>
 		</header>
 		<main>
-			<section id="about">
-				<h2>About</h2>
-				<p>Hello! and welcome to my personal website—I'm Brendan; a software engineer with a background in physics and the biological sciences.</p>
-				<p>In my free time, I enjoy reading, contributing to <a href="https://standardebooks.org">Standard Ebooks</a> and <a href="https://pgdp.net">Distributed Proofreaders</a>. I recently got into running again.</p>
-			</section>
+			<div class="split">
+				<section id="about">
+					<h2>About</h2>
+					<p>Hello! and welcome to my personal website⁠—I’m Brendan; a software engineer with a background in physics and the biological sciences.</p>
+					<p>In my free time, I enjoy reading, contributing to <a href="https://standardebooks.org">Standard Ebooks</a> and <a href="https://pgdp.net">Distributed Proofreaders</a>. I recently got into running again.</p>
+				</section>
+				<img alt="A photo of me, Brendan Fattig, taken in 2023." src="images/profile.png"/>
+			</div>
 			<section id="ebooks">
 				<h2>Ebook projects</h2>
 				<p>These are the ebooks that I have worked on; primarily for Standard Ebooks but also a few transcriptions at Wikisource.</p>
