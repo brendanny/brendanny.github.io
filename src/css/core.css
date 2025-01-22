@@ -14,11 +14,16 @@ body > *{
 }
 
 header{
-	align-items: center;
 	background-color: #eeeeee;
 	margin-top: 1em;
 	padding: 8px;
 	text-transform: lowercase;
+}
+
+@media (prefers-color-scheme: dark) {
+    header {
+        background-color: #333333; /* Change to your desired dark mode color */
+    }
 }
 
 nav ul{
