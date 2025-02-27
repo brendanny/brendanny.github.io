@@ -20,10 +20,10 @@ header{
 	text-transform: lowercase;
 }
 
-@media (prefers-color-scheme: dark) {
-    header {
-        background-color: #333333; /* Change to your desired dark mode color */
-    }
+@media(prefers-color-scheme: dark){
+	header{
+		background-color: #333333; /* Change to your desired dark mode color */
+	}
 }
 
 nav ul{
@@ -73,5 +73,12 @@ h3 + p,
 hr + p,
 p:first-child{
 	hanging-punctuation: first last;
+	text-indent: 0;
+}
+
+
+p.updated{
+	font-size: smaller;
+	text-align: center;
 	text-indent: 0;
 }

@@ -11,10 +11,10 @@ Use a better box model (opinionated). */
 
 html{
 	/* Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3) */
+	-webkit-text-size-adjust: 100%; /* 3. Use a more readable tab size (opinionated). */
 	font-family: system-ui, "Segoe UI", roboto, helvetica, arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 	line-height: 1.15; /* 1. Correct the line height in all browsers. */
 	tab-size: 4; /* 2. Prevent adjustments of font size after orientation changes in iOS. */
-	-webkit-text-size-adjust: 100%; /* 3. Use a more readable tab size (opinionated). */
 }
 
 /* Sections
